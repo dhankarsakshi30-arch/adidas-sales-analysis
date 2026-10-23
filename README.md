@@ -110,12 +110,4 @@ Avoid treating these as final business conclusions until you verify the source d
 - Check the “Price per Unit” aggregation and currency formatting.
 - Improve the map zoom so the relevant geography is visible.
 - Add a short section with verified findings after checking the underlying data.
-
-## Author
-
-**Your Name**  
-Add your GitHub profile or portfolio link here.
-
----
-
-*This README describes the dashboard based on the supplied screenshot. Update the tools, data-source details, calculations, and author information to match your actual project before publishing.*
+  
